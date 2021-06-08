@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ##########STEP 1##########
 
 systemctl stop firewalld
